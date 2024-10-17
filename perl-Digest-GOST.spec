@@ -8,7 +8,7 @@ Release:    1
 Summary:    Uses the CryptoPro parameters from RFC 4357
 License:    GPL+ or Artistic
 Group:      Development/Perl
-Url:        http://search.cpan.org/dist/%{upstream_name}
+Url:        https://search.cpan.org/dist/%{upstream_name}
 Source0:    http://www.cpan.org/modules/by-module/Digest/%{upstream_name}-%{upstream_version}.tar.gz
 
 BuildRequires: perl(Digest)
